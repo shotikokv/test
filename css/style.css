@@ -1,6 +1,7 @@
 .service{
 	height:250px;
 	background:#7cc576;
+	border:solid black 1px;
 }
 .service-2{
 	background-color: red;
@@ -30,3 +31,23 @@
 	letter-spacing: 3px;
 	direction: rtl;
 }
+
+
+img{
+	width: 100%
+}
+
+.image-box{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	
+}
+
+
+body {
+	background-image: url("http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg");
+	background-color: #cccccc;
+ }
+ 
